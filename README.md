@@ -38,6 +38,7 @@ In every page there is a header which shows the title of the website, home , cou
 -added new button to Create New Culinary Vacation Package that takes to the edit page.
 users and latest courses remain same.
 
+## PART-2:
 ## extra credits : 
--To validate the departure and return dates, i used javascript. a return date will automatically follow the departure date. Validation is done in the browser using HTML form properties and JavaScript coding, Mongoose validation code.
--A logged-in user can create a new vacation package as well as change or delete an existing one. However, any user, whether authorized or not, can browse all of the current vacation postings. The interface has been updated so that only logged-in users may access the edit/delete pages. Only logged-in users can create and amend vacation descriptions, thanks to some new coding.
+- To validate the departure and return dates, i used javascript. a return date will automatically follow the departure date. Validation is done in the browser using HTML form properties and JavaScript coding, Mongoose validation code.
+- A logged-in user can create a new vacation package as well as change or delete an existing one. However, any user, whether authorized or not, can browse all of the current vacation postings. The interface has been updated so that only logged-in users may access the edit/delete pages. Only logged-in users can create and amend vacation descriptions, thanks to some new coding.
