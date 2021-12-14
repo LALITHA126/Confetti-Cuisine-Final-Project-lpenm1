@@ -33,6 +33,7 @@ In every page there is a header which shows the title of the website, home , cou
 - To make these web pages operate properly, you'll need to construct the new vacationSchema Mongoose model for the MongoDB holiday collection, update the app's related route handling, edit its respective controller, and, of course, develop the new EJS view templates that correspond to the new pages.ary holiday package,a website that shows a list of all the packages that are currently available, a page that displays the specifics of a specific vacation and links to an editing page that allows you to completely delete the vacation package from the database and a page that allows you to alter the details of an existing holiday.
 - To limit the choices a user can make when interacting with the forms, considered HTML form elements like select options, drop box, or the HTML data list tag. These would be particularly valuable in the fields of departure location and cuisine.
 - supplied a "seed vacations.js" module based on the one that seeded the course collections from the textbook project It will erase all current documents from the vacations collection before executing the insertions each time you execute it with "node seed vacations."
+
 **If we want to edit or remove the cuisine description, we must first log in.**
 
 **courses** 
